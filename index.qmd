@@ -1,0 +1,32 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/willgarneau
+    - icon: github
+      text: Github
+      href: https://github.com/willgarneau
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/william-garneau-13205298
+    - icon: envelope
+      text: Email
+      href: "mailto:will.garneau@gmail.com"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+I am a KL2 scholar and a hospitalist at Johns Hopkins Hospital.  I am originally from Durham, NC and went to medical school at UNC.  I moved to Baltimore in 2016 for internal medicine residency at Johns Hopkins and joined the faculty after I graduated. I am currently an assistant professor of medicine in the Division of Hospital Medicine and over the past few years have been primarily a clinician educator.  During the COVID19 pandemic I became more involved in research and this led me to apply for the KL2 program. I will be in the GTPCI program starting in August studying for an MHS in clinical investigation.  I am interested in utilizing data science to study observational data – my recent work has been in COVID-19 and mpox.  
+
+I am looking forward to developing my statistical and epidemiological knowledge and gaining more proficiency as a programmer over the next year in the Graduate Training Programs in Clinical Investigation at the Johns Hopkins Bloomberg School of Public Health.  
+
+On this website, you will find links to my research and contact information.
+Please feel free to [contact me](mailto:will.garneau@gmail.com) if you would like to discuss potential projects.
+
