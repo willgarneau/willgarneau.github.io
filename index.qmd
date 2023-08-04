@@ -13,7 +13,7 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/william-garneau-13205298
-    - icon: envelope
+    - icon: send
       text: Email
       href: "mailto:will.garneau@gmail.com"  
 ---
@@ -25,7 +25,7 @@ about:
 
 I am a [KL2 scholar](https://ncats.nih.gov/ctsa/about/training/programs) and hospitalist at Johns Hopkins Hospital in Baltimore, Maryland. I am originally from Durham, North Carolina and went to medical school at UNC. I moved to Baltimore in 2016 for internal medicine residency at Johns Hopkins and joined the faculty after I graduated. I am currently an assistant professor of medicine in the Division of Hospital Medicine. During the COVID-19 pandemic I became more involved in research and this led me to apply for the KL2 program.
 
-I will be starting in the [Graduate Training Programs in Clinical Investigation (GTPCI)](https://publichealth.jhu.edu/academics/academic-program-finder/graduate-training-programs-in-clinical-investigation "Graduate Training Programs in Clinical Investigation (GTPCI)") at the Johns Hopkins Bloomberg School of Public Health program starting in August studying for an MHS in clinical investigation. I am interested in utilizing data science to study observational data -- my recent work has been in COVID-19 and mpox.
+I will be starting in the [Graduate Training Programs in Clinical Investigation (GTPCI)](https://publichealth.jhu.edu/academics/academic-program-finder/graduate-training-programs-in-clinical-investigation "Graduate Training Programs in Clinical Investigation (GTPCI)") at the Johns Hopkins Bloomberg School of Public Health program starting in August 2023. I am interested in utilizing data science to study observational data -- my recent work has been in COVID-19 and mpox.
 
 I am looking forward to developing my statistical and epidemiological knowledge and gaining more proficiency as a programmer over the next year in the GTPCI.
 
