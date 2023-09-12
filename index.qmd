@@ -28,3 +28,5 @@ I am a [KL2 scholar](https://ncats.nih.gov/ctsa/about/training/programs) and hos
 I am currently enrolled in the [Graduate Training Programs in Clinical Investigation (GTPCI)](https://publichealth.jhu.edu/academics/academic-program-finder/graduate-training-programs-in-clinical-investigation "Graduate Training Programs in Clinical Investigation (GTPCI)") at the Johns Hopkins Bloomberg School of Public Health program. I am interested in utilizing data science to study observational data -- my recent work has been in COVID-19 and mpox.
 
 On this website, you will find links to my research and contact information. Please feel free to [contact me](mailto:will.garneau@gmail.com) if you would like to discuss potential projects.
+
+pattern by BÖCK from <a href="https://thenounproject.com/browse/icons/term/pattern/" target="_blank" title="pattern Icons">Noun Project</a> (CC BY 3.0)
