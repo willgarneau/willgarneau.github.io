@@ -12,7 +12,7 @@ about:
       href: https://github.com/willgarneau
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/william-garneau-13205298
+      href: https://www.linkedin.com/in/william-garneau-md-mph
     - icon: send
       text: Email
       href: "mailto:will.garneau@gmail.com"  

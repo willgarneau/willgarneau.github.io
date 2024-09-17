@@ -1,6 +1,6 @@
 website:
-  title: "William Garneau, MD MPH"
-  description: "William Garneau, MD MPH is a physician-scientist based in Baltimore, MD"
+  title: "William Garneau, MD MPH MHS"
+  description: "William Garneau, MD MPH MHS is a physician-scientist based in Baltimore, MD"
   image: img/my_image.jpg
   
   favicon: img/favicon.png
@@ -20,7 +20,7 @@ website:
       - icon: twitter
         href: https://twitter.com/willgarneau
       - icon: linkedin
-        href: https://www.linkedin.com/in/william-garneau-13205298
+        href: https://www.linkedin.com/in/william-garneau-md-mph
       - icon: book
         href: https://pubmed.ncbi.nlm.nih.gov/?term=garneau+wm%5BAuthor%5D&sort=date
       - icon: send
