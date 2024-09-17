@@ -23,9 +23,11 @@ about:
 
 # About Me
 
-I am a [KL2 scholar](https://ncats.nih.gov/ctsa/about/training/programs) and hospitalist at Johns Hopkins Hospital in Baltimore, Maryland. I am originally from Durham, North Carolina and went to medical school at UNC. I moved to Baltimore in 2016 for internal medicine residency at Johns Hopkins and joined the faculty after I graduated. I am currently an assistant professor of medicine in the Division of Hospital Medicine.
+I am originally from Durham, North Carolina and went to medical school at UNC. I moved to Baltimore, Maryland in 2016 for internal medicine residency at Johns Hopkins and joined the faculty after I graduated. I am an assistant professor of medicine in the Division of Hospital Medicine.  My job includes caring for hospitalized patients, teaching medical students and residents, and performing clinical research.
 
-I am currently enrolled in the [Graduate Training Programs in Clinical Investigation (GTPCI)](https://publichealth.jhu.edu/academics/academic-program-finder/graduate-training-programs-in-clinical-investigation "Graduate Training Programs in Clinical Investigation (GTPCI)") at the Johns Hopkins Bloomberg School of Public Health program. I am interested in utilizing data science to study observational data -- my recent work has been in COVID-19 and mpox.
+In 2023 I received an [NIH career development award](https://researchtraining.nih.gov/programs/career-development/K12).  My prior research has used real-world data to answer emerging issues in COVID-19 and mpox such as the safety of Paxlovid in pregnancy and exploring risk factors for severe mpox.  My current work is focused on improving care in the hospital for persons who use substances.
+
+I completed an MHS degree in the [Graduate Training Programs in Clinical Investigation (GTPCI)](https://publichealth.jhu.edu/academics/academic-program-finder/graduate-training-programs-in-clinical-investigation "Graduate Training Programs in Clinical Investigation (GTPCI)") at the Johns Hopkins Bloomberg School of Public Health in 2024. 
 
 On this website, you will find links to my research and contact information. Please feel free to [contact me](mailto:will.garneau@gmail.com) if you would like to discuss potential projects.
 
