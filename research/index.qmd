@@ -26,8 +26,6 @@ Kee DP, Feder KA, Wood L, **Garneau WM**\*, Buresh ME\*. Trends in buprenorphine
 
 **Garneau WM**, Strain EC, Fingerhood MI. Challenges with buprenorphine initiation in the fentanyl era—adapting effectively to the moment. *JAMA Network Open*. 2026;9(1):e2552140. [doi:10.1001/jamanetworkopen.2025.52140](https://doi.org/10.1001/jamanetworkopen.2025.52140)
 
-**Garneau WM**, Becker SJ, Calcaterra SL. Methadone treatment during acute care hospitalization: a call for systems-level change. *Journal of Addiction Medicine*. In press.
-
 A full list of my publications is available on [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=garneau+wm%5BAuthor%5D&sort=date) and in my [CV](../cv/index.qmd).
 
 ## Recent talks
