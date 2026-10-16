@@ -23,7 +23,7 @@ about:
 
 # About Me
 
-I am a hospitalist and addiction medicine physician at Johns Hopkins, where I am an Assistant Professor of Medicine in the Divisions of Hospital Medicine and Addiction Medicine. I care for hospitalized patients, see patients on the inpatient substance use disorders consult service, and I teach medical students and residents. I am board certified in internal medicine and addiction medicine.
+I am a hospitalist and addiction medicine physician at Johns Hopkins, where I am an Assistant Professor of Medicine in the Divisions of Hospital Medicine and Addiction Medicine. I care for hospitalized patients, see patients on the substance use disorders consult service, and I teach medical students and residents. I am board certified in internal medicine and addiction medicine.
 
 My research focuses on improving hospital care for people with opioid use disorder in the fentanyl era: how we manage withdrawal, how we start and dose methadone and buprenorphine, why patients leave the hospital before treatment is complete, and what systems-level changes help them stay connected to care. My work has been supported by an NIH KL2 career development award through the Johns Hopkins Institute for Clinical and Translational Research, a Center for Innovative Medicine Next Generation Scholars Award, and the Research in Addiction Medicine Scholars program. Earlier in my career I used real-world data to study emerging issues in COVID-19 and mpox, including the safety of Paxlovid in pregnancy and risk factors for severe mpox.
 
