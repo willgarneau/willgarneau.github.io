@@ -4,7 +4,7 @@ aliases:
   - /projects/index.html
 ---
 
-My research aims to make the hospital a place where people with opioid use disorder (OUD) receive effective treatment and stay connected to care after they leave. Fentanyl has changed what withdrawal looks like, how patients respond to standard medication starts, and how often they leave the hospital before treatment is complete. I use real-world clinical data and implementation science to understand those gaps and to test practical, systems-level fixes.
+My research aims to make the hospital a place where people with opioid use disorder (OUD) receive effective treatment and stay connected to care after they leave. Fentanyl has changed what withdrawal looks like, how patients respond to standard medication starts, and how often they leave the hospital before treatment is complete. I use real-world clinical data to understand those gaps and to test practical, systems-level fixes.
 
 ## Current focus
 
