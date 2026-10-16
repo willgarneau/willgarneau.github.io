@@ -4,34 +4,48 @@
     "href": "cv/index.html",
     "title": "Curriculum vitae",
     "section": "",
-    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+    "text": "Download current CV"
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
     "section": "",
-    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+    "text": "My research aims to make the hospital a place where people with opioid use disorder (OUD) receive effective treatment and stay connected to care after they leave. Fentanyl has changed what withdrawal looks like, how patients respond to standard medication starts, and how often they leave the hospital before treatment is complete. I use real-world clinical data, mixed methods, and implementation science to understand those gaps and to test practical, systems-level fixes."
   },
   {
-    "objectID": "projects/index.html#the-languages-of-middle-earth",
-    "href": "projects/index.html#the-languages-of-middle-earth",
-    "title": "Projects",
-    "section": "",
-    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+    "objectID": "research/index.html#current-focus",
+    "href": "research/index.html#current-focus",
+    "title": "Research",
+    "section": "Current focus",
+    "text": "Current focus\nWithdrawal management in the fentanyl era. Opioid withdrawal is often undertreated in the hospital, and it is a common reason patients leave before treatment is complete. I am redesigning and pilot-testing an EHR-based clinical decision support tool for opioid withdrawal management, and I contributed to a 2026 consensus meeting on how opioid withdrawal should be measured.\nMethadone and buprenorphine in the hospital. I study how methadone dosing during hospitalization relates to patient-directed discharge and readmission, and how buprenorphine and methadone initiation have changed for patients using fentanyl.\nPatient-directed discharge. Leaving the hospital before treatment is complete is common among people with OUD and is associated with serious harm. My work examines its drivers and the hospital practices that can reduce it.\nData systems and policy. Hospitals often cannot confirm a patient’s methadone dose from their opioid treatment program. I have worked on integrating opioid treatment program data into Maryland’s health information exchange (CRISP), presented this work to the Maryland Health Services Cost Review Commission, and co-led a national workshop on methadone dose confirmation under federal privacy rules (42 CFR Part 2)."
   },
   {
-    "objectID": "projects/index.html#the-history-of-the-war-of-the-ring",
-    "href": "projects/index.html#the-history-of-the-war-of-the-ring",
-    "title": "Projects",
-    "section": "The History of the War of the Ring",
-    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
+    "objectID": "research/index.html#selected-publications",
+    "href": "research/index.html#selected-publications",
+    "title": "Research",
+    "section": "Selected publications",
+    "text": "Selected publications\n\nOpioid use disorder in the hospital\nGarneau WM, Meredith RR, Feder KA, Buresh ME. Methadone dose and patient-directed discharge in hospitalized patients with opioid use disorder. JAMA Network Open. 2026;9(3):e263439. doi:10.1001/jamanetworkopen.2026.3439\nKee DP, Feder KA, Wood L, Buresh ME, Garneau WM. Trends in buprenorphine and methadone initiation for opioid use disorder among patients using fentanyl: a mixed-methods analysis from an inpatient addiction consult service. Journal of Addiction Medicine. 2026. doi:10.1097/ADM.0000000000001693\nGarneau WM, Kushmeliuk S, Kee DP, Gebo KA, Buresh ME. Patient-directed discharge among hospitalized persons with opioid use disorder in the fentanyl era: a scoping review. American Journal of Medicine Open. 2026;15:100130. doi:10.1016/j.ajmo.2026.100130\nGarneau WM, Strain EC, Fingerhood MI. Challenges with buprenorphine initiation in the fentanyl era—adapting effectively to the moment. JAMA Network Open. 2026;9(1):e2552140. doi:10.1001/jamanetworkopen.2025.52140\nGarneau WM, Becker SJ, Calcaterra SL. Methadone treatment during acute care hospitalization: a call for systems-level change. Journal of Addiction Medicine. In press.\n\n\nCOVID-19 and mpox\nGarneau WM, Wang K, Liang T, et al. Effect of antecedent B-cell depletion therapy for patients hospitalized with COVID-19 within a single health system: a propensity score analysis. Scientific Reports. 2025;15:9647. doi:10.1038/s41598-025-94024-y\nGarneau WM, Lankiewicz MJ, Lesko CR, et al. Clinical effects of dexamethasone among patients with sickle cell disease hospitalized with COVID-19. PLoS One. 2024;19(11):e0313289. doi:10.1371/journal.pone.0313289\nGarneau WM, Jones JL, Dashler GM, et al. Adherence to CDC guidelines for mpox evaluation: practice patterns across an academic medical system during the 2022 epidemic. Open Forum Infectious Diseases. 2024;11(9):ofae512. doi:10.1093/ofid/ofae512\nGarneau WM, Jones JL, Dashler GM, et al. Risk factors for hospitalization and effect of immunosuppression on clinical outcomes among an urban cohort of patients with mpox. Open Forum Infectious Diseases. 2023;10(12):ofad533. doi:10.1093/ofid/ofad533\nGarneau WM, Jones-Beatty K, Ufua MO, et al. Analysis of clinical outcomes of pregnant patients treated with nirmatrelvir and ritonavir for acute SARS-CoV-2 infection. JAMA Network Open. 2022;5(11):e2244141. doi:10.1001/jamanetworkopen.2022.44141\nA full list of my publications is available on PubMed and in my CV."
+  },
+  {
+    "objectID": "research/index.html#recent-talks",
+    "href": "research/index.html#recent-talks",
+    "title": "Research",
+    "section": "Recent talks",
+    "text": "Recent talks\n\nDoor-to-balloon time for withdrawal: evidence and new approaches for acute withdrawal in the fentanyl era. University of Maryland Addiction Medicine Grand Rounds, September 2026; Yale School of Medicine Addiction Grand Rounds, July 2026; symposium chair, College on Problems of Drug Dependence, June 2026.\nHospital experience for persons with OUD. Cleveland Clinic Department of Hospital Medicine Grand Rounds, June 2025.\nPilot integration of OTP data into Maryland CRISP. Maryland Health Services Cost Review Commission, April 2025."
+  },
+  {
+    "objectID": "research/index.html#support-and-recognition",
+    "href": "research/index.html#support-and-recognition",
+    "title": "Research",
+    "section": "Support and recognition",
+    "text": "Support and recognition\nMy research has been supported by an NIH/NCATS KL2 award through the Johns Hopkins Institute for Clinical and Translational Research, the Johns Hopkins Center for Innovative Medicine Next Generation Scholars Award, and a Johns Hopkins Department of Medicine CORE Coins Award. I am a Research in Addiction Medicine Scholar (2025–2027) and a fellow of the Center for Dissemination & Implementation Science at Stanford (C-DIAS). In 2025 I was named Researcher of the Year by the Johns Hopkins Division of Hospital Medicine, and in 2026 I received the College on Problems of Drug Dependence Community Champion Award."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nAbout Me\nI am originally from Durham, North Carolina and went to medical school at UNC. I moved to Baltimore, Maryland in 2016 for internal medicine residency at Johns Hopkins and joined the faculty after I graduated. I am an assistant professor of medicine in the Division of Hospital Medicine. My job includes caring for hospitalized patients, teaching medical students and residents, and performing clinical research.\nIn 2023 I received an NIH career development award. My prior research has used real-world data to answer emerging issues in COVID-19 and mpox such as the safety of Paxlovid in pregnancy and exploring risk factors for severe mpox. My current work is focused on improving care in the hospital for persons who use substances.\nI completed an MHS degree in the Graduate Training Programs in Clinical Investigation (GTPCI) at the Johns Hopkins Bloomberg School of Public Health in 2024.\nOn this website, you will find links to my research and contact information. Please feel free to contact me if you would like to discuss potential projects.\ncode by DinosoftLabs from Noun Project (CC BY 3.0)"
+    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nAbout Me\nI am a hospitalist and addiction medicine physician at Johns Hopkins, where I am an Assistant Professor of Medicine in the Divisions of Hospital Medicine and Addiction Medicine. I care for hospitalized patients at The Johns Hopkins Hospital and Johns Hopkins Bayview Medical Center, including on the inpatient substance use disorders consult service, and I teach medical students and residents. I am board certified in internal medicine and addiction medicine.\nMy research focuses on improving hospital care for people with opioid use disorder in the fentanyl era: how we manage withdrawal, how we start and dose methadone and buprenorphine, why patients leave the hospital before treatment is complete, and what systems-level changes help them stay connected to care. My work has been supported by an NIH KL2 career development award through the Johns Hopkins Institute for Clinical and Translational Research, a Center for Innovative Medicine Next Generation Scholars Award, and the Research in Addiction Medicine Scholars program. Earlier in my career I used real-world data to study emerging issues in COVID-19 and mpox, including the safety of Paxlovid in pregnancy and risk factors for severe mpox.\nI am originally from Durham, North Carolina. I graduated from Yale, earned my MD and MPH at the University of North Carolina, and moved to Baltimore in 2016 for internal medicine residency at Johns Hopkins. In 2024 I completed an MHS through the Graduate Training Programs in Clinical Investigation (GTPCI) at the Johns Hopkins Bloomberg School of Public Health.\nYou can find more about my research and my CV on this site. Please feel free to contact me if you would like to discuss potential projects."
   }
 ]

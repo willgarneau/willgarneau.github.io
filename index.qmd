@@ -23,18 +23,10 @@ about:
 
 # About Me
 
-I am originally from Durham, North Carolina and went to medical school at UNC. I moved to Baltimore, Maryland in 2016 for internal medicine residency at Johns Hopkins and joined the faculty after I graduated. I am an assistant professor of medicine in the Division of Hospital Medicine.  My job includes caring for hospitalized patients, teaching medical students and residents, and performing clinical research.
+I am a hospitalist and addiction medicine physician at Johns Hopkins, where I am an Assistant Professor of Medicine in the Divisions of Hospital Medicine and Addiction Medicine. I care for hospitalized patients at The Johns Hopkins Hospital and Johns Hopkins Bayview Medical Center, including on the inpatient substance use disorders consult service, and I teach medical students and residents. I am board certified in internal medicine and addiction medicine.
 
-In 2023 I received an [NIH career development award](https://researchtraining.nih.gov/programs/career-development/K12).  My prior research has used real-world data to answer emerging issues in COVID-19 and mpox such as the safety of Paxlovid in pregnancy and exploring risk factors for severe mpox.  My current work is focused on improving care in the hospital for persons who use substances.
+My research focuses on improving hospital care for people with opioid use disorder in the fentanyl era: how we manage withdrawal, how we start and dose methadone and buprenorphine, why patients leave the hospital before treatment is complete, and what systems-level changes help them stay connected to care. My work has been supported by an NIH KL2 career development award through the Johns Hopkins Institute for Clinical and Translational Research, a Center for Innovative Medicine Next Generation Scholars Award, and the Research in Addiction Medicine Scholars program. Earlier in my career I used real-world data to study emerging issues in COVID-19 and mpox, including the safety of Paxlovid in pregnancy and risk factors for severe mpox.
 
-I completed an MHS degree in the [Graduate Training Programs in Clinical Investigation (GTPCI)](https://publichealth.jhu.edu/academics/academic-program-finder/graduate-training-programs-in-clinical-investigation "Graduate Training Programs in Clinical Investigation (GTPCI)") at the Johns Hopkins Bloomberg School of Public Health in 2024. 
+I am originally from Durham, North Carolina. I graduated from Yale, earned my MD and MPH at the University of North Carolina, and moved to Baltimore in 2016 for internal medicine residency at Johns Hopkins. In 2024 I completed an MHS through the [Graduate Training Programs in Clinical Investigation (GTPCI)](https://publichealth.jhu.edu/academics/academic-program-finder/graduate-training-programs-in-clinical-investigation "Graduate Training Programs in Clinical Investigation (GTPCI)") at the Johns Hopkins Bloomberg School of Public Health.
 
-On this website, you will find links to my research and contact information. Please feel free to [contact me](mailto:will.garneau@gmail.com) if you would like to discuss potential projects.
-
-
-
-
-
-
-
-code by DinosoftLabs from <a href="https://thenounproject.com/browse/icons/term/code/" target="_blank" title="code Icons">Noun Project</a> (CC BY 3.0)
+You can find more about my [research](research/index.qmd) and my [CV](cv/index.qmd) on this site. Please feel free to [contact me](mailto:will.garneau@gmail.com) if you would like to discuss potential projects.
