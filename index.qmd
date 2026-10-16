@@ -15,7 +15,7 @@ about:
       href: https://www.linkedin.com/in/william-garneau-md-mph
     - icon: send
       text: Email
-      href: "mailto:will.garneau@gmail.com"  
+      href: "mailto:william.garneau@jhmi.edu"  
 ---
 
 ::: {#about-block}
@@ -29,4 +29,4 @@ My research focuses on improving hospital care for people with opioid use disord
 
 I am originally from Durham, North Carolina. I graduated from Yale, earned my MD and MPH at the University of North Carolina, and moved to Baltimore in 2016 for internal medicine residency at Johns Hopkins. In 2024 I completed an MHS through the [Graduate Training Programs in Clinical Investigation (GTPCI)](https://publichealth.jhu.edu/academics/academic-program-finder/graduate-training-programs-in-clinical-investigation "Graduate Training Programs in Clinical Investigation (GTPCI)") at the Johns Hopkins Bloomberg School of Public Health.
 
-You can find more about my [research](research/index.qmd) and my [CV](cv/index.qmd) on this site. Please feel free to [contact me](mailto:will.garneau@gmail.com) if you would like to discuss potential projects.
+You can find more about my [research](research/index.qmd) and my [CV](cv/index.qmd) on this site. Please feel free to [contact me](mailto:william.garneau@jhmi.edu) if you would like to discuss potential projects.
