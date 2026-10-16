@@ -18,7 +18,7 @@ My research aims to make the hospital a place where people with opioid use disor
 
 ## Selected publications
 
-**Garneau WM**, Meredith RR, Feder KA, Buresh ME. Methadone dose and patient-directed discharge in hospitalized patients with opioid use disorder. *JAMA Network Open*. 2026;9(3):e263439. [doi:10.1001/jamanetworkopen.2026.3439](https://doi.org/10.1001/jamanetworkopen.2026.3439)
+Meredith RR, **Garneau WM**, Feder KA, Buresh ME. Methadone dose and patient-directed discharge in hospitalized patients with opioid use disorder. *JAMA Network Open*. 2026;9(3):e263439. [doi:10.1001/jamanetworkopen.2026.3439](https://doi.org/10.1001/jamanetworkopen.2026.3439)
 
 Kee DP, Feder KA, Wood L, Buresh ME, **Garneau WM**. Trends in buprenorphine and methadone initiation for opioid use disorder among patients using fentanyl: a mixed-methods analysis from an inpatient addiction consult service. *Journal of Addiction Medicine*. 2026. [doi:10.1097/ADM.0000000000001693](https://doi.org/10.1097/ADM.0000000000001693)
 
